@@ -38,7 +38,7 @@ categories: jekyll update
 
 #### 2. Christocentric 
 
-**[Dei Verbum](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html), Dogmatic Constituion on Divine Revelation (Vatican II)**
+**[Dei Verbum](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html), Dogmatic Constitution on Divine Revelation (Vatican II)**
 <br>
 *‘Dei Verbum’ means Word of God in Latin. The significance of this document, to understand the heart of the Church and how She understand divine revelation – how God reveals Himself to us, through His Son, Jesus Christ, the Word made flesh. This is an extremely helpful synthesis if one is unsure of how to approach scripture.*
 - Watch this short 6 min [Bishop Barron video](https://www.youtube.com/watch?v=wgsIK1avs6U&t=2s) for an introduction
