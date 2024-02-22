@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is a temporary website for our Antioch sessions for your reference. For more information about the Catholic Students' Society, check out our instagram here [@nus_css](https://www.instagram.com/nus_css/).
+To aid your reflection and prayer after Antioch. Commit to Jesus and let us continue walking towards the cross this Lent! 
+
+*For more information about the Catholic Students' Society, check out our instagram here [@nus_css](https://www.instagram.com/nus_css/).*
 
 <!-- You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
